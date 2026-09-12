@@ -1,7 +1,0 @@
-- [Unified analysis platform](unified-analysis-platform.md) — specialized security engines share one authorized, evidence-backed, safely isolated run pipeline.
-- [Workspace parser dependencies](parser-dependency.md) — parser libraries must be direct dependencies of the artifact that bundles them.
-- [Bounty research direction](bounty-research-direction.md) — optimize payouts through explainable evidence and outcome feedback while preserving manual authorization gates.
-- [Workspace script runner](workspace-script-runner.md) — ad hoc TypeScript maintenance jobs use the runner under scripts/node_modules rather than filtered package exec.
-- [Workspace SaaS boundary](workspace-saas-boundary.md) — public release is workspace-isolated URL monitoring; legacy source/bounty flows stay owner-gated until fully scoped.
-- [SUN 1 product wedge](sun1-product-wedge.md) — start with authorized researchers and small consultancies; win on scope/evidence operations, not scanner breadth.
-- [GitHub App authentication](github-app-auth.md) — account authorization and environment attachment do not guarantee usable repository write access.
