@@ -1,0 +1,30 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "PH24_3dian8qWjyWQ0mY7"
+uri = "file://research/notes.md"
+type = "text"
+title = "SUN 1 Product Research Notes"
+description = "Research plan and running findings log for the SUN 1 product usefulness review."
+logical_id = "d928da0e-68c5-406d-8cee-207242d27906"
+content_hash = "sha256:65c2ef65e5694e9c5833a852d57177b6c48db29209714094504a6df0b80e5172"
+size = 2004
+mtime_ms = 1789219864546
+storage_uri = "gcs://replit-rams-assets-reed/rams/assets/repl:18891e22-bfab-4a07-86f3-94c0e108f4e8/d928da0e-68c5-406d-8cee-207242d27906/31c36e79-d0bc-4c31-95d0-ee1625bce819"
+storage_version_token = "1789219867994151"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "793ZoCoH1Y543GAKa8WUI"
+uri = "file://research/sun1-product-usefulness.md"
+type = "text"
+title = "SUN 1 Product Usefulness Review"
+description = "Deep chief-product, AppSec, senior-developer, competitive, and go-to-market assessment of whether SUN 1 is useful or redundant."
+logical_id = "5f57e8c7-4444-4f46-a986-c5012047ca79"
+content_hash = "sha256:f42c8f836b70b9352769a065bb07d75624dfdd90a82939b3eb649f281495e069"
+size = 20453
+mtime_ms = 1789220243446
+storage_uri = "gcs://replit-rams-assets-reed/rams/assets/repl:18891e22-bfab-4a07-86f3-94c0e108f4e8/5f57e8c7-4444-4f46-a986-c5012047ca79/4c3d0abf-e028-435c-a939-22f65bc59d7b"
+storage_version_token = "1789220269886964"
+content_type = "text/markdown"
